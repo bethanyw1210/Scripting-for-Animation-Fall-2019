@@ -12,7 +12,52 @@ public class VarsClass : MonoBehaviour
     public int firePower;
     public UnityEvent Event;
 
-    private void OnTriggerEnter(Collider other)
+    /*private void OnTriggerEnter(Collider other)
+    {
+        Event.Invoke();
+    }*/
+
+    /*private void OnMouseOver() //mouse hover!
+    {
+        Event.Invoke();
+    }
+
+    private void OnMouseDown() //mouse click!
+    {
+        Event.Invoke();
+    }
+
+    private void OnMouseUp() //Mouse click too!
+    {
+        Event.Invoke();
+    }
+
+    private void OnMouseDrag() //also click?
+    {
+        Event.Invoke();
+    }
+
+    private void OnMouseEnter() //hover
+    {
+        Event.Invoke();
+    }
+
+    private void OnMouseExit() //hover
+    {
+        Event.Invoke();
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        Event.Invoke();
+    }
+
+    private void OnTriggerStay(Collider other)
+    {
+        Event.Invoke();
+    }*/
+
+    private void OnWillRenderObject()
     {
         Event.Invoke();
     }
