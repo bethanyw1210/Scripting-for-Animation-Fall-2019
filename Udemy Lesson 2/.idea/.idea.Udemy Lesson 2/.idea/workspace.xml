@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3ba524-c55f-4a15-b32e-8289d545309b" name="Default Changelist" comment="" />
@@ -13,6 +13,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/AdventureGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/State.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/AdventureGame.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1QJEHCSTkUlSwZVuu1uMUX0PTU5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567480209864</updated>
       <workItem from="1567480214574" duration="601000" />
+      <workItem from="1567821015596" duration="2919000" />
     </task>
     <servers />
   </component>
@@ -74,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

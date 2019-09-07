@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8b0e7919af12464fa9b6ebd01d4e0ad, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'You are in a nice, well-lit room. The couch is very comfy and lovely
+    to sit in. There are fluffy pillows on the couch and a fluffy rug under your feet.
+    The walls are a comforting, pale pink and the room is nice and cool. Simply put,
+    the room is perfect. On top of that, the room is full of happy, purring cats.
+    There are three cats in particular that you have seemed to bonded with. Click
+    on the options below to learn more about these cats:
+
+
+    A) Learn more about cat 1
+
+    B) Learn more about cat 2
+
+    C) Learn more about cat 3
+
+    D) Continue the story'
