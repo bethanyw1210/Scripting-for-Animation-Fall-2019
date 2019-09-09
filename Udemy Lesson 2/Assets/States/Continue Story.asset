@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8b0e7919af12464fa9b6ebd01d4e0ad, type: 3}
+  m_Name: Continue Story
+  m_EditorClassIdentifier: 
+  storyText: 'Which cat would you like to chose?
+
+
+    1) Cat 1
+
+    2) Cat 2
+
+    3) Cat 3
+
+    4) None of them. (You heathen.)'
+  nextStates:
+  - {fileID: 11400000, guid: 9c8a46f4c8003a546acc56ea3ac6ab38, type: 2}
+  - {fileID: 11400000, guid: 5cd68dac4411c7a4d86925b68ae6cd6e, type: 2}
+  - {fileID: 11400000, guid: fb3ec2447daa7c549ad2ec649c034f2f, type: 2}
+  - {fileID: 11400000, guid: 7b139341a21944648b9426b31ed035d4, type: 2}

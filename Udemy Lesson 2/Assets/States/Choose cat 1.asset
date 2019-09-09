@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8b0e7919af12464fa9b6ebd01d4e0ad, type: 3}
+  m_Name: Choose cat 1
+  m_EditorClassIdentifier: 
+  storyText: 'You chose cat number 1, the main coon! You scoop her up and snuggle
+    her in your arms. She immediately starts to purr very loudly. The two of you spend
+    a long and happy life together full of snuggles and purrs.
+
+
+    1)Try again?
+
+    2)Exit'
+  nextStates:
+  - {fileID: 11400000, guid: 9b7061d422fd124419da29a2d94c7ec6, type: 2}
+  - {fileID: 11400000, guid: a5cc3e3bb4115934db03d0ebb8c3494b, type: 2}

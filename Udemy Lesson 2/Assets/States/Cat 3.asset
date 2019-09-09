@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8b0e7919af12464fa9b6ebd01d4e0ad, type: 3}
+  m_Name: Cat 3
+  m_EditorClassIdentifier: 
+  storyText: "The third cat is a pure white, blue-eyed tom. He is long and lanky with
+    short fur. He has a mysterious air to him. He is sweet and gentle but also acts
+    with authority. It's almost as if it's a gift when he allows you to pet him. He
+    isn't much of a cuddler but he stas next to your side the whole time. He always
+    lays where he is just in your reach. \n\n1) Go back"
+  nextStates:
+  - {fileID: 11400000, guid: 9b7061d422fd124419da29a2d94c7ec6, type: 2}

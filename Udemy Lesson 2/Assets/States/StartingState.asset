@@ -20,10 +20,15 @@ MonoBehaviour:
     on the options below to learn more about these cats:
 
 
-    A) Learn more about cat 1
+    1) Learn more about cat 1
 
-    B) Learn more about cat 2
+    2) Learn more about cat 2
 
-    C) Learn more about cat 3
+    3) Learn more about cat 3
 
-    D) Continue the story'
+    4) Continue the story'
+  nextStates:
+  - {fileID: 11400000, guid: ad7244d8cd83a8a469ca1891fa3c029a, type: 2}
+  - {fileID: 11400000, guid: 57c3fc756cac17f418200423f6bf4634, type: 2}
+  - {fileID: 11400000, guid: 479545b5c4651bf44832616aa61970ad, type: 2}
+  - {fileID: 11400000, guid: 98ac76756ee2deb42b2e037e4f373516, type: 2}
