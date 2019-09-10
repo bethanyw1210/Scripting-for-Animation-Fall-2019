@@ -13,12 +13,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/VarsClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -78,6 +82,7 @@
       <workItem from="1567543350594" duration="47000" />
       <workItem from="1567543446100" duration="3247000" />
       <workItem from="1567743989831" duration="747000" />
+      <workItem from="1568148870004" duration="2243000" />
     </task>
     <servers />
   </component>

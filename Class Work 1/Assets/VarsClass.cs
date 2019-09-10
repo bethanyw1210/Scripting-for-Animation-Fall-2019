@@ -12,10 +12,10 @@ public class VarsClass : MonoBehaviour
     public int firePower;
     public UnityEvent Event;
 
-    /*private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         Event.Invoke();
-    }*/
+    }
 
     /*private void OnMouseOver() //mouse hover!
     {
@@ -55,12 +55,12 @@ public class VarsClass : MonoBehaviour
     private void OnTriggerStay(Collider other)
     {
         Event.Invoke();
-    }*/
+    }
 
     private void OnWillRenderObject()
     {
         Event.Invoke();
-    }
+    }*/
 
     // Start is called before the first frame update
     void Start()

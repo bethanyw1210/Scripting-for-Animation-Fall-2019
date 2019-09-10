@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\FirstClass.cs" />
+    <Compile Include="Assets\FloatData.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/10886725/Documents/Scripting for Animation Fal 2019/Scripting-for-Animation-Fall-2019/Project 1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
