@@ -12,7 +12,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -23,6 +27,10 @@
         <option value="$PROJECT_DIR$/Assets/VarsClass.cs" />
         <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/DogClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
       </list>
     </option>
   </component>
@@ -83,6 +91,7 @@
       <workItem from="1567543446100" duration="3247000" />
       <workItem from="1567743989831" duration="747000" />
       <workItem from="1568148870004" duration="2243000" />
+      <workItem from="1568321137112" duration="3116000" />
     </task>
     <servers />
   </component>
@@ -110,6 +119,8 @@
   <component name="WindowStateProjectService">
     <state x="445" y="161" key="SettingsEditor" />
     <state x="445" y="161" key="SettingsEditor/1920.1080" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
