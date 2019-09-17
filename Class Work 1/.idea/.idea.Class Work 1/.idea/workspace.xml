@@ -12,18 +12,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/VarsClass.cs" />
         <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
@@ -31,6 +26,7 @@
         <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
       </list>
     </option>
   </component>
@@ -94,6 +90,7 @@
       <workItem from="1568321137112" duration="3116000" />
       <workItem from="1568520166511" duration="1162000" />
       <workItem from="1568596158608" duration="506000" />
+      <workItem from="1568753083507" duration="4042000" />
     </task>
     <servers />
   </component>
