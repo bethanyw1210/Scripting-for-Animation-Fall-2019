@@ -22,11 +22,22 @@ public class CatClass : MonoBehaviour
             gameObject.transform.localScale = new Vector3(1,1,1);
         }
 
-        if (Input.GetKeyDown(KeyCode.D))
+        else if (Input.GetKeyDown(KeyCode.D))
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed,GetComponent<Rigidbody2D>().velocity.y);
             gameObject.transform.localScale = new Vector3(-1, 1, 1);
         }
+        
+        else if (Input.GetKeyDown(KeyCode.W))
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x,moveSpeed);
+        }
+        
+        else if (Input.GetKeyDown(KeyCode.S))
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x,-moveSpeed);
+        }
+        
         if (Input.GetKeyDown(KeyCode.E))
         {
             OrangeParticles();
