@@ -14,6 +14,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharMovement.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1RB2qOdsUXtxduEWav7Wpr0QdLw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -63,6 +70,7 @@
       <workItem from="1569126436666" duration="5000" />
       <workItem from="1569176978050" duration="88000" />
       <workItem from="1569177162130" duration="631000" />
+      <workItem from="1569358314816" duration="3413000" />
     </task>
     <servers />
   </component>
