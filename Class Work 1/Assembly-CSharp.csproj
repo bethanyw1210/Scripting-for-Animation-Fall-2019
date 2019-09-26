@@ -66,6 +66,7 @@
     <Compile Include="Assets\CatClass.cs" />
     <Compile Include="Assets\DogClass.cs" />
     <Compile Include="Assets\FloatData.cs" />
+    <Compile Include="Assets\Functions.cs" />
     <Compile Include="Assets\MouseEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\ParticleControl.cs" />
