@@ -12,24 +12,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Assets/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
-=======
-    <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Into the Forest/Assets/Scripts/CharMovement.cs" root0="SKIP_HIGHLIGHTING" />
->>>>>>> master
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GetFruit.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,12 +28,7 @@
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Assets/Functions.cs" />
-=======
-        <option value="$PROJECT_DIR$/Assets/IfStatements.cs" />
-        <option value="$PROJECT_DIR$/Assets/ApplyForce.cs" />
->>>>>>> master
       </list>
     </option>
   </component>
@@ -113,11 +94,7 @@
       <workItem from="1568596158608" duration="506000" />
       <workItem from="1568753083507" duration="4042000" />
       <workItem from="1568925434064" duration="3487000" />
-<<<<<<< HEAD
       <workItem from="1569531140181" duration="3094000" />
-=======
-      <workItem from="1569357944841" duration="3068000" />
->>>>>>> master
     </task>
     <servers />
   </component>
