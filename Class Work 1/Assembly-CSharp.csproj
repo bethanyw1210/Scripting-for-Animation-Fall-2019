@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CatClass.cs" />
+    <Compile Include="Assets\CreateEnemy.cs" />
     <Compile Include="Assets\DogClass.cs" />
     <Compile Include="Assets\FloatData.cs" />
     <Compile Include="Assets\Functions.cs" />
