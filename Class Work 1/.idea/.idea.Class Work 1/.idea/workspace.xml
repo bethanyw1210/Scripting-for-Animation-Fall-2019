@@ -13,12 +13,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Initiate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CreateEnemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UITextControl.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -27,7 +29,6 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/VarsClass.cs" />
         <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/DogClass.cs" />
         <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
@@ -37,7 +38,10 @@
         <option value="$PROJECT_DIR$/Assets/CreateGravity.cs" />
         <option value="$PROJECT_DIR$/Assets/CreateEnemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Initiate.cs" />
+        <option value="$PROJECT_DIR$/Assets/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/UITextControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -107,6 +111,7 @@
       <workItem from="1569641594114" duration="1662000" />
       <workItem from="1569807292752" duration="3924000" />
       <workItem from="1569961992538" duration="3751000" />
+      <workItem from="1570135557021" duration="4088000" />
     </task>
     <servers />
   </component>

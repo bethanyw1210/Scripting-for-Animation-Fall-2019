@@ -69,10 +69,12 @@
     <Compile Include="Assets\FloatData.cs" />
     <Compile Include="Assets\Functions.cs" />
     <Compile Include="Assets\Initiate.cs" />
+    <Compile Include="Assets\MonoEvents.cs" />
     <Compile Include="Assets\MouseEvents.cs" />
     <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\ParticleControl.cs" />
     <Compile Include="Assets\TriggerEvents.cs" />
+    <Compile Include="Assets\UIImageController.cs" />
     <Compile Include="Assets\UITextControl.cs" />
     <Compile Include="Assets\VarsClass.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
