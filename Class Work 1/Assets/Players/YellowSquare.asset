@@ -15,6 +15,7 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: daf2a9b2042a0ea40a352adc203c2556, type: 3}
   color: {r: 1, g: 0.8741453, b: 0, a: 1}
   prefab: {fileID: 5242495426106666778, guid: 3f05c57bb2dbf5f41b07f90c4235084e, type: 3}
-  sprite: {fileID: 21300000, guid: daf2a9b2042a0ea40a352adc203c2556, type: 3}
-  color: {r: 1, g: 0.8741453, b: 0, a: 1}
-  prefab: {fileID: 5242495426106666778, guid: 3f05c57bb2dbf5f41b07f90c4235084e, type: 3}
+  health: {fileID: 0}
+  weapon: []
+  shirt: {fileID: 11400000, guid: adea147f534e6be4bb9c1a1daba42e64, type: 2}
+  pants: {fileID: 11400000, guid: 4254b8054e5dad642a08286533fdfe3c, type: 2}

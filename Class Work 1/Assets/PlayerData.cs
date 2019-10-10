@@ -5,9 +5,10 @@ using UnityEngine;
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
-    public Sprite sprite; //sprites are 2D assests
-    public Color color;
-    public GameObject prefab;
+    public FloatData health;
+    public List<WeaponData> weapon;
+    public ClothesData shirt;
+    public ClothesData pants;
 
 
     public void InstancePlayer()
