@@ -646,6 +646,11 @@ PrefabInstance:
       propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
       objectReference: {fileID: 402211620}
+    - target: {fileID: 2165837804265407069, guid: a577d60c799480a4fa2a126af8a885bf,
+        type: 3}
+      propertyPath: triggerEvent.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: UpdateText
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a577d60c799480a4fa2a126af8a885bf, type: 3}
 --- !u!1 &394086398
