@@ -22,7 +22,7 @@ public class CharacterMovement : MonoBehaviour
     void Update()
     {
         position.x = speed * Input.GetAxis("Horizontal");
-        position.z = speed * Input.GetAxis("Vertical");
+        //position.z = speed * Input.GetAxis("Vertical");
 
         if (controller.isGrounded)
         {

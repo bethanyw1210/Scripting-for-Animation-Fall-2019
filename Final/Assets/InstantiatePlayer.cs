@@ -7,7 +7,7 @@ public class InstantiatePlayer : MonoBehaviour
 
     public float speed = 12f;
     public GameObject player;
-    public Color PlayerColor = Color.cyan;
+    //public Color PlayerColor = Color.cyan;
     
     void Start()
     {
@@ -21,7 +21,7 @@ public class InstantiatePlayer : MonoBehaviour
         newPlayer.active = true;
         newPlayer.tag = "Player";
         newPlayer.transform.position = Vector3.zero;
-        newPlayer.GetComponent<Renderer>().material.color = PlayerColor;
+        //newPlayer.GetComponent<Renderer>().material.color = PlayerColor;
 
         return newPlayer;
     }

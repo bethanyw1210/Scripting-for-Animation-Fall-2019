@@ -44,5 +44,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 12
-  player: {fileID: 1080283914617272736, guid: 476b294f7282a8243a018e490bb4a8ec, type: 3}
+  player: {fileID: 3491154273037853841, guid: 311b43cb0fa77fe4d95c0c214da01b57, type: 3}
   PlayerColor: {r: 0, g: 1, b: 1, a: 1}

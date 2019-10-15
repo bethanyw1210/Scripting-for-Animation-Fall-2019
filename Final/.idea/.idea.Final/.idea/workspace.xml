@@ -14,14 +14,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/InstantiatePlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/InstantiatePlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570681518365</updated>
       <workItem from="1570681519908" duration="1805000" />
+      <workItem from="1571107893592" duration="420000" />
     </task>
     <servers />
   </component>
@@ -85,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
