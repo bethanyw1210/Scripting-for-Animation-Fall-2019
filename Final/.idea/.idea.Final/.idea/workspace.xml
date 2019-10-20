@@ -12,15 +12,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WeaponType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UITextControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/InstantiatePlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CreateData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIImageControl.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
-        <option value="$PROJECT_DIR$/Assets/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/InstantiatePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/CreateData.cs" />
+        <option value="$PROJECT_DIR$/Assets/WeaponType.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIImageControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/UITextControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/CharacterMovement.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +84,7 @@
       <updated>1570681518365</updated>
       <workItem from="1570681519908" duration="1805000" />
       <workItem from="1571107893592" duration="420000" />
+      <workItem from="1571537389450" duration="2480000" />
     </task>
     <servers />
   </component>

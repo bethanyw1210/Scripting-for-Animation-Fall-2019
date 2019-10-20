@@ -58,7 +58,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CharacterMovement.cs" />
+    <Compile Include="Assets\CreateData.cs" />
+    <Compile Include="Assets\FloatData.cs" />
     <Compile Include="Assets\InstantiatePlayer.cs" />
+    <Compile Include="Assets\TriggerEvents.cs" />
+    <Compile Include="Assets\UIImageControl.cs" />
+    <Compile Include="Assets\UITextControl.cs" />
+    <Compile Include="Assets\WeaponType.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/betha/Documents/Scripting for Animation Fall 2019/Scripting-for-Animation-Fall-2019/Final/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

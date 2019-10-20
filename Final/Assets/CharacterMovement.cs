@@ -10,9 +10,9 @@ public class CharacterMovement : MonoBehaviour
     private Vector3 position;
     private CharacterController controller;
 
-    private float speed = 12f, gravity = -3f, jumpSpeed = 50f;
-    public int jumpCount;
-    public int jumpCountMax = 1;
+    private float speed = 20f, gravity = -3f, jumpSpeed = 50f;
+    private int jumpCount;
+    private int jumpCountMax = 1;
 
     private void Start()
     {
