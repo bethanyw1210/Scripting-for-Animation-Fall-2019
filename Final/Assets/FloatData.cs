@@ -5,9 +5,9 @@ using UnityEngine;
 [CreateAssetMenu]
 public class FloatData : ScriptableObject
 {
-    public float value;
+    public float value = 100f;
     public float minValue = 0;
-    public float maxValue;
+    public float maxValue = 100f;
 
     public void UpdateValue(float amount)
     {

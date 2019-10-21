@@ -26,13 +26,13 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/InstantiatePlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/CreateData.cs" />
         <option value="$PROJECT_DIR$/Assets/WeaponType.cs" />
-        <option value="$PROJECT_DIR$/Assets/UIImageControl.cs" />
         <option value="$PROJECT_DIR$/Assets/UITextControl.cs" />
         <option value="$PROJECT_DIR$/Assets/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIImageControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -85,6 +85,7 @@
       <workItem from="1570681519908" duration="1805000" />
       <workItem from="1571107893592" duration="420000" />
       <workItem from="1571537389450" duration="2480000" />
+      <workItem from="1571631878120" duration="1585000" />
     </task>
     <servers />
   </component>

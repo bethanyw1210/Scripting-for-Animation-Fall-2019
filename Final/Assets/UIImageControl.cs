@@ -4,11 +4,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(Image))]
+
 public class UIImageControl : MonoBehaviour
 {
+
     private Image img;
 
-    private void Awake()
+    void Awake()
     {
         img = GetComponent<Image>();
     }
@@ -17,4 +20,5 @@ public class UIImageControl : MonoBehaviour
     {
         img.fillAmount = data.value;
     }
+    
 }
