@@ -70,6 +70,8 @@
     <Compile Include="Assets\TriggerEvents.cs" />
     <Compile Include="Assets\UIImageControl.cs" />
     <Compile Include="Assets\UITextControl.cs" />
+    <Compile Include="Assets\Weapons\WeaponHandler.cs" />
+    <Compile Include="Assets\WeaponSwitch.cs" />
     <Compile Include="Assets\WeaponType.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10886725/Documents/Scripting For Animation Fall 2019/Scripting-for-Animation-Fall-2019/Final/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

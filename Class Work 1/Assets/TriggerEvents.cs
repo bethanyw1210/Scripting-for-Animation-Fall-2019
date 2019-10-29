@@ -4,9 +4,19 @@ using UnityEngine.Events;
 
 public class TriggerEvents : MonoBehaviour
 {
-    public UnityEvent triggerEvent;
+    public void Awake()
+    {
+        GetComponent<Collider>().isTrigger = true;
+    }
+    
+    public UnityEvent triggerEnterEvent, triggerExitEvent;
     private void OnTriggerEnter(Collider other)
     {
-        triggerEvent.Invoke();
+        triggerEnterEvent.Invoke();
+    }
+    
+    private void OnTriggerExit(Collider other)
+    {
+        triggerExitEvent.Invoke();
     }
 }
