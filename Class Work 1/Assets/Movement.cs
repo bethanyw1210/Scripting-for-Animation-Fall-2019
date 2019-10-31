@@ -24,6 +24,7 @@ public class Movement : MonoBehaviour
     {
         //transform.Translate(position*Time.deltaTime);
         //! means is not
+        position.z = speed * Input.GetAxis("Vertical");
         position.x = speed * Input.GetAxis("Horizontal");
 
         if (controller.isGrounded)

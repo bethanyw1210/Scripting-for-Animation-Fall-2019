@@ -28,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AI Script/AgentHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,7 +44,6 @@
         <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/CreateGravity.cs" />
         <option value="$PROJECT_DIR$/Assets/CreateEnemy.cs" />
@@ -64,6 +64,8 @@
         <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Players/PlayerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI Script/AgentHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
       </list>
     </option>
   </component>
@@ -142,6 +144,7 @@
       <workItem from="1571950146352" duration="3256000" />
       <workItem from="1571953500647" duration="271000" />
       <workItem from="1572381483451" duration="3848000" />
+      <workItem from="1572554364086" duration="4101000" />
     </task>
     <servers />
   </component>

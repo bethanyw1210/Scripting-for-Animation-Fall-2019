@@ -6,6 +6,9 @@
     <e p="C:\Users\10886725\Documents\Scripting For Animation Fall 2019\Scripting-for-Animation-Fall-2019\Class Work 1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AI Script" t="Include">
+          <e p="AgentHandler.cs" t="Include" />
+        </e>
         <e p="CatClass.cs" t="Include" />
         <e p="ClothesData.cs" t="Include" />
         <e p="CreateEnemy.cs" t="Include" />
