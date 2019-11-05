@@ -11,7 +11,7 @@ public class UIImageControl : MonoBehaviour
 
     private Image img;
 
-    void Awake()
+    void Start()
     {
         img = GetComponent<Image>();
     }

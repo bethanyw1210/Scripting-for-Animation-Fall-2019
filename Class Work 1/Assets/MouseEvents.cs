@@ -6,10 +6,25 @@ using UnityEngine.Events;
 
 public class MouseEvents : MonoBehaviour
 {
-    public UnityEvent mouseEvent;
+    private Camera cam;
 
-    public void OnMouseDown()
+    public Vector3Data data;
+    //public UnityEvent mouseEvent;
+
+    private void Start()
     {
-        mouseEvent.Invoke();
+        cam = Camera.main;
+    }
+    private void OnMouseDown()
+    {
+        var ray = cam.ScreenPointToRay(Input.mousePosition);
+
+        if (Physics.Raycast(ray, out var hit))
+        {
+            data.value = hit.point;
+        }
+        Debug.Log(hit);
+        //Debug.Log(cam.ScreenToWorldPoint(Input.mousePosition));
+        //mouseEvent.Invoke();
     }
 }
