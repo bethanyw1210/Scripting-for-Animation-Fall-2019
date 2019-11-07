@@ -10,6 +10,7 @@
         <e p="CreateData.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="InstantiatePlayer.cs" t="Include" />
+        <e p="MouseDownBehavior.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />
         <e p="UIImageControl.cs" t="Include" />
         <e p="UITextControl.cs" t="Include" />

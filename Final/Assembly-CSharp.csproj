@@ -61,6 +61,7 @@
     <Compile Include="Assets\CreateData.cs" />
     <Compile Include="Assets\FloatData.cs" />
     <Compile Include="Assets\InstantiatePlayer.cs" />
+    <Compile Include="Assets\MouseDownBehavior.cs" />
     <Compile Include="Assets\TriggerEvents.cs" />
     <Compile Include="Assets\UIImageControl.cs" />
     <Compile Include="Assets\UITextControl.cs" />

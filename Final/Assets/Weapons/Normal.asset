@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a74c67912ab2cb4786dd7753484344a, type: 3}
   m_Name: Normal
   m_EditorClassIdentifier: 
-  weaponAmmo: {fileID: 0}
+  weaponAmmo: {fileID: 21300000, guid: 0e9c986614d6e724da8a770b8fe9f88a, type: 3}
   weaponAmmoType: {r: 1, g: 1, b: 1, a: 1}
   weaponPrefab: {fileID: 0}
   powerLevel: 5

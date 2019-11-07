@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0a74c67912ab2cb4786dd7753484344a, type: 3}
-  m_Name: Water
+  m_Name: Water Weapon
   m_EditorClassIdentifier: 
   weaponAmmo: {fileID: 0}
   weaponAmmoType: {r: 0.17888929, g: 0.46550748, b: 0.5660378, a: 1}
