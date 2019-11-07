@@ -57,10 +57,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AIMovement.cs" />
     <Compile Include="Assets\Scripts\FloatData.cs" />
-    <Compile Include="Assets\Scripts\MouseEvents.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
-    <Compile Include="Assets\Scripts\ShootAmmo.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\UIImageControl.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

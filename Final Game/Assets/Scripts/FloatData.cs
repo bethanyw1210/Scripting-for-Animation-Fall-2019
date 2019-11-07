@@ -8,7 +8,7 @@ using UnityEngine;
 //we do not trigger events in data scripts, should never trigger
 public class FloatData : ScriptableObject 
 { 
-    public float value = 1f;
+    public float value = 100f;
     public float minValue = 0;
     public float maxValue = 1f;
 

@@ -7,10 +7,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="AIMovement.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
-          <e p="MouseEvents.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
-          <e p="ShootAmmo.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="UIImageControl.cs" t="Include" />
         </e>

@@ -22,7 +22,6 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        position.z = speed * Input.GetAxis("Vertical");
         position.x = speed * Input.GetAxis("Horizontal");
 
         if (controller.isGrounded)
