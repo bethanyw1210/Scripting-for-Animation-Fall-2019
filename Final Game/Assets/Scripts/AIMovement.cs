@@ -32,6 +32,7 @@ public class AIMovement : MonoBehaviour
 
     private void Update()
     {
+        GetComponent<Rigidbody>().freezeRotation = true;
         agent.destination = currentDestination.position;
     }
 }

@@ -26,8 +26,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootAmmo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +82,7 @@
       <workItem from="1573098927839" duration="3264000" />
       <workItem from="1573148454524" duration="6618000" />
       <workItem from="1573167197973" duration="736000" />
+      <workItem from="1573245809856" duration="475000" />
     </task>
     <servers />
   </component>
