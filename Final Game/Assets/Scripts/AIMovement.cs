@@ -12,6 +12,7 @@ public class AIMovement : MonoBehaviour
     private Transform currentDestination;
     private GameObject startObj;
     public Transform destinationObj;
+    public float newDestination;
     void Start()
     {
         startObj = new GameObject();
@@ -22,12 +23,20 @@ public class AIMovement : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        currentDestination = destinationObj; 
+/*        currentDestination = destinationObj - 10f;
+        
+        if (currentDestination = destinationObj)
+        {
+            newDestination = currentDestination + 10f;
+        }
+
+        var GameObject = currentDestination != destinationObj;*/
     }
 
     private void OnTriggerExit(Collider other)
     {
         currentDestination = startObj.transform;
+        Destroy(gameObject);
     }
 
     private void Update()
