@@ -3,7 +3,14 @@ guid: 1c9c362b2e446cd4faba394669677b4c
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - mouse1: {fileID: 5976273855023687704, guid: d701e841d9789cb46bdd735e09e6f047,
+      type: 3}
+  - mouse2: {instanceID: 0}
+  - mouse3: {instanceID: 0}
+  - mouseToCreate: {instanceID: 0}
+  - spawnPointMin: {instanceID: 0}
+  - spawnPointMax: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

@@ -17,6 +17,6 @@ public class UIImageControl : MonoBehaviour
 
     public void UpdateImage(FloatData data)
     {
-        img.fillAmount = data.value;
+        img.fillAmount = data.value / 100;
     }
 }

@@ -4,40 +4,59 @@ using UnityEngine;
 
 public class InstantiateMouse : MonoBehaviour
 {
-    public float lastXPosition, lastYPosition, LastXPosition2, lastYPosition2, edgeDistance = 10f;
+    public float edgeDistance = 10f;
 
     public int mouseCount, mouseSelection;
 
-    public GameObject mouse1, mouse2, mouse3, mouseToCreate;
+    public bool canSpawn = true;
+
+    public GameObject object1, object2, object3, objectToCreate;
+
+    public GameObject spawnPointMin, spawnPointMax;
+
+    public float spawnTimeMin = 1f, spawnTimeMax = 5f;
 
     void Start()
     {
-        SpawnMice();
+        StartCoroutine(Spawner());
         edgeDistance = .8f * Camera.main.orthographicSize;
     }
     
     //spawn mice
-    public void SpawnMice()
+    public void SpawnObject()
     {
         mouseSelection = Random.Range(1, 3);
         switch (mouseSelection)
         {
             case 1:
-                mouseToCreate = mouse1;
+                objectToCreate = object1;
                 break;
             case 2:
-                mouseToCreate = mouse2;
+                objectToCreate = object2;
                 break;
             case 3:
-                mouseToCreate = mouse3;
+                objectToCreate = object3;
                 break;
         }
 
-        if (!(edgeDistance < lastXPosition) && !(-edgeDistance > lastXPosition))
+        Vector3 spawnPoint = new Vector3(0,0,0);
+        float interp = Random.Range(0.0f, 1.0f);
+
+        spawnPoint = Vector3.Lerp(spawnPointMin.transform.position, spawnPointMax.transform.position, interp);
+
+        Instantiate(objectToCreate, spawnPoint, Quaternion.identity);
+
+    }
+
+    IEnumerator Spawner()
+    {
+        while (canSpawn)
         {
-            GameObject newMouse = Instantiate(mouseToCreate, new Vector3(lastXPosition + Random.Range(0f, 8f), lastYPosition + Random.Range(3f, 5f)), gameObject.transform.rotation);
-        }
-        
+            float spawnTime = Random.Range(spawnTimeMin, spawnTimeMax);
+            SpawnObject();
+            
+            yield return new WaitForSeconds(spawnTime);
+        }  
     }
 
 }

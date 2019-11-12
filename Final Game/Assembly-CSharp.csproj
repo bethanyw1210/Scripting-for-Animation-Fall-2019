@@ -62,6 +62,8 @@
     <Compile Include="Assets\Scripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\InstantiateMouse.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\OnTriggerExitEvent.cs" />
+    <Compile Include="Assets\Scripts\OnTriggerStayEvent.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\UIImageControl.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

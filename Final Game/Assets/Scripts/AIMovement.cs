@@ -12,7 +12,7 @@ public class AIMovement : MonoBehaviour
     private Transform currentDestination;
     private GameObject startObj;
     public Transform destinationObj;
-    //public float newDestination;
+    
     void Start()
     {
         startObj = new GameObject();
@@ -21,8 +21,14 @@ public class AIMovement : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
     }
 
-    void Update()
+    public void MoveAway()
     {
         agent.destination = destinationObj.position;
     }
+
+    public void StopMoving()
+    {
+        agent.destination = transform.position;
+    }
+    
 }
