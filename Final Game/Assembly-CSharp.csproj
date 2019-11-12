@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AIMovement.cs" />
+    <Compile Include="Assets\Scripts\DestroyMouse.cs" />
     <Compile Include="Assets\Scripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\InstantiateMouse.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />

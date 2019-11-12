@@ -12,7 +12,7 @@ public class AIMovement : MonoBehaviour
     private Transform currentDestination;
     private GameObject startObj;
     public Transform destinationObj;
-    public float newDestination;
+    //public float newDestination;
     void Start()
     {
         startObj = new GameObject();
@@ -21,27 +21,8 @@ public class AIMovement : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
     }
 
-    private void OnTriggerEnter(Collider other)
+    void Update()
     {
-/*        currentDestination = destinationObj - 10f;
-        
-        if (currentDestination = destinationObj)
-        {
-            newDestination = currentDestination + 10f;
-        }
-
-        var GameObject = currentDestination != destinationObj;*/
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        currentDestination = startObj.transform;
-        Destroy(gameObject);
-    }
-
-    private void Update()
-    {
-        GetComponent<Rigidbody>().freezeRotation = true;
-        agent.destination = currentDestination.position;
+        agent.destination = destinationObj.position;
     }
 }

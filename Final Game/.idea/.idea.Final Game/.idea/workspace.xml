@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyMouse.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -31,6 +32,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateEnemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyMouse.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +89,7 @@
       <workItem from="1573167197973" duration="736000" />
       <workItem from="1573245809856" duration="475000" />
       <workItem from="1573428992219" duration="4625000" />
+      <workItem from="1573524918115" duration="3245000" />
     </task>
     <servers />
   </component>
