@@ -61,6 +61,7 @@
     <Compile Include="Assets\AINav.cs" />
     <Compile Include="Assets\CatClass.cs" />
     <Compile Include="Assets\ClothesData.cs" />
+    <Compile Include="Assets\Coroutine.cs" />
     <Compile Include="Assets\CreateEnemy.cs" />
     <Compile Include="Assets\Debugger.cs" />
     <Compile Include="Assets\DebuggerHandler.cs" />
