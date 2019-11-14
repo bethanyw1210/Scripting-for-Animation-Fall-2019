@@ -13,6 +13,7 @@
         <e p="CatClass.cs" t="Include" />
         <e p="ClothesData.cs" t="Include" />
         <e p="Coroutine.cs" t="Include" />
+        <e p="CoroutineClass.cs" t="Include" />
         <e p="CreateEnemy.cs" t="Include" />
         <e p="Debugger.cs" t="Include" />
         <e p="DebuggerHandler.cs" t="Include" />

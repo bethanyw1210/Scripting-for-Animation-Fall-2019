@@ -10,8 +10,8 @@ public class Movement : MonoBehaviour
     private CharacterController controller;
 
     public float speed = 10f, gravity = -2f, jumpSpeed = 32f;
-    private int jumpCount;
-    public int jumpCountMax = 1;
+    //private int jumpCount;
+    //public int jumpCountMax = 5;
     
     // Start is called before the first frame update
     void Start()
@@ -26,19 +26,19 @@ public class Movement : MonoBehaviour
 
         if (controller.isGrounded)
         {
-            position.y = 0f;
-            jumpCount = 0;
+            position.z = 0f;
+            //jumpCount = 0;
         }
 
         if (!controller.isGrounded)
         {
-            position.y += gravity;
+            position.z += gravity;
         }
 
-        if (Input.GetButtonDown("Jump") && jumpCount < jumpCountMax)
+        if (Input.GetButtonDown("Jump") /*&& jumpCount < jumpCountMax*/)
         {
-            position.y = jumpSpeed;
-            jumpCount++;
+            position.z = jumpSpeed;
+            //jumpCount++;
         }
         
         controller.Move (position * Time.deltaTime);

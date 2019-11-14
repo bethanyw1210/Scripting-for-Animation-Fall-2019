@@ -4,22 +4,17 @@ using UnityEngine;
 
 public class InstantiateMouse : MonoBehaviour
 {
-    public float edgeDistance = 10f;
-
-    public int mouseCount, mouseSelection;
-
+    public float edgeDistance;
+    public int mouseSelection;
     public bool canSpawn = true;
-
     public GameObject object1, object2, object3, objectToCreate;
-
     public GameObject spawnPointMin, spawnPointMax;
-
     public float spawnTimeMin = 1f, spawnTimeMax = 5f;
 
     void Start()
     {
         StartCoroutine(Spawner());
-        edgeDistance = .8f * Camera.main.orthographicSize;
+        //edgeDistance = .8f * Camera.main.orthographicSize;
     }
     
     //spawn mice
