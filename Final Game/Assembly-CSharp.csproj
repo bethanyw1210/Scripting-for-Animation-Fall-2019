@@ -58,12 +58,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AIMovement.cs" />
+    <Compile Include="Assets\Scripts\AsteroidMovement.cs" />
     <Compile Include="Assets\Scripts\DestroyMouse.cs" />
     <Compile Include="Assets\Scripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\InstantiateMouse.cs" />
+    <Compile Include="Assets\Scripts\KillBox.cs" />
+    <Compile Include="Assets\Scripts\LazerDamage.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\OnTriggerExitEvent.cs" />
     <Compile Include="Assets\Scripts\OnTriggerStayEvent.cs" />
+    <Compile Include="Assets\Scripts\PlatformMovement.cs" />
+    <Compile Include="Assets\Scripts\ShootWeapon.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\UIImageControl.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

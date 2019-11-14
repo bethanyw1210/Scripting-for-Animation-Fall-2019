@@ -10,20 +10,18 @@ public class AIMovement : MonoBehaviour
 
     private NavMeshAgent agent;
     private Transform currentDestination;
-    private GameObject startObj;
-    public Transform destinationObj;
-    
+    public float destroyTime = 8f;
+
     void Start()
     {
-        startObj = new GameObject();
-        startObj.transform.position = transform.position;
-        currentDestination = transform;
         agent = GetComponent<NavMeshAgent>();
+        currentDestination = GameObject.Find("GoalLine").transform;
+        Destroy(gameObject, destroyTime);
     }
 
     public void MoveAway()
     {
-        agent.destination = destinationObj.position;
+        agent.destination = currentDestination.position;
     }
 
     public void StopMoving()
