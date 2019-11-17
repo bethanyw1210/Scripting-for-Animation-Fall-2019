@@ -25,6 +25,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AsteroidMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KillBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyMouse.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -46,6 +48,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CreateData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UITextControl.cs" />
       </list>
     </option>
   </component>
@@ -106,6 +110,7 @@
       <workItem from="1573585574446" duration="3886000" />
       <workItem from="1573759756990" duration="3559000" />
       <workItem from="1573766072746" duration="2453000" />
+      <workItem from="1573965168934" duration="1803000" />
     </task>
     <servers />
   </component>

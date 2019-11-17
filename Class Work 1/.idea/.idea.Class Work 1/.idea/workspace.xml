@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Initiate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Players/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
@@ -159,6 +160,7 @@
       <workItem from="1573158092273" duration="816000" />
       <workItem from="1573595070514" duration="3684000" />
       <workItem from="1573767690825" duration="2249000" />
+      <workItem from="1573965338069" duration="716000" />
     </task>
     <servers />
   </component>
