@@ -58,13 +58,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AIMovement.cs" />
-    <Compile Include="Assets\Scripts\AsteroidMovement.cs" />
     <Compile Include="Assets\Scripts\CreateData.cs" />
     <Compile Include="Assets\Scripts\DestroyMouse.cs" />
     <Compile Include="Assets\Scripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\GetMouse.cs" />
     <Compile Include="Assets\Scripts\InstantiateMouse.cs" />
     <Compile Include="Assets\Scripts\KillBox.cs" />
     <Compile Include="Assets\Scripts\LazerDamage.cs" />
+    <Compile Include="Assets\Scripts\MouseCounter.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\OnTriggerExitEvent.cs" />
     <Compile Include="Assets\Scripts\OnTriggerStayEvent.cs" />

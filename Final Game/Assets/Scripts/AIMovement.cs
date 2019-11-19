@@ -9,7 +9,7 @@ public class AIMovement : MonoBehaviour
 {
 
     private NavMeshAgent agent;
-    private Transform currentDestination;
+    public Transform currentDestination;
     public float destroyTime = 8f;
 
     void Start()

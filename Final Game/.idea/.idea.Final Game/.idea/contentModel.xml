@@ -8,13 +8,14 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AIMovement.cs" t="Include" />
-          <e p="AsteroidMovement.cs" t="Include" />
           <e p="CreateData.cs" t="Include" />
           <e p="DestroyMouse.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GetMouse.cs" t="Include" />
           <e p="InstantiateMouse.cs" t="Include" />
           <e p="KillBox.cs" t="Include" />
           <e p="LazerDamage.cs" t="Include" />
+          <e p="MouseCounter.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="OnTriggerExitEvent.cs" t="Include" />
           <e p="OnTriggerStayEvent.cs" t="Include" />

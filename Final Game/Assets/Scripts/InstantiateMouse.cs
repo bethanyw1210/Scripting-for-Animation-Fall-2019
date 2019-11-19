@@ -33,11 +33,13 @@ public class InstantiateMouse : MonoBehaviour
                 objectToCreate = object3;
                 break;
         }
-
+        
         Vector3 spawnPoint = new Vector3(0,0,0);
+        
         float interp = Random.Range(0.0f, 1.0f);
 
         spawnPoint = Vector3.Lerp(spawnPointMin.transform.position, spawnPointMax.transform.position, interp);
+        
 
         Instantiate(objectToCreate, spawnPoint, Quaternion.identity);
 
