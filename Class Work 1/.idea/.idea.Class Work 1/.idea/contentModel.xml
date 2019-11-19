@@ -10,6 +10,9 @@
           <e p="AgentHandler.cs" t="Include" />
         </e>
         <e p="AINav.cs" t="Include" />
+        <e p="Animation" t="Include">
+          <e p="ButtonInput.cs" t="Include" />
+        </e>
         <e p="CatClass.cs" t="Include" />
         <e p="ClothesData.cs" t="Include" />
         <e p="Coroutine.cs" t="Include" />

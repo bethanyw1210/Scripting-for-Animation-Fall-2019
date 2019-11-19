@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Players/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Lists.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animation/ButtonInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Coroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CoroutineClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,6 +76,7 @@
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Coroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/CoroutineClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animation/ButtonInput.cs" />
       </list>
     </option>
   </component>
@@ -161,6 +163,7 @@
       <workItem from="1573595070514" duration="3684000" />
       <workItem from="1573767690825" duration="2249000" />
       <workItem from="1573965338069" duration="716000" />
+      <workItem from="1574203618026" duration="353000" />
     </task>
     <servers />
   </component>
