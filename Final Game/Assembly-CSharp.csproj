@@ -60,6 +60,7 @@
     <Compile Include="Assets\Scripts\AIMovement.cs" />
     <Compile Include="Assets\Scripts\CreateData.cs" />
     <Compile Include="Assets\Scripts\DestroyMouse.cs" />
+    <Compile Include="Assets\Scripts\DestroyObject.cs" />
     <Compile Include="Assets\Scripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\GetMouse.cs" />
     <Compile Include="Assets\Scripts\InstantiateMouse.cs" />
