@@ -4,13 +4,7 @@ using UnityEngine;
 
 public class PlatformMovement : MonoBehaviour
 {
-    public float platformSpeed; 
-    
-    
-    void Start()
-    {
-        
-    }
+    public float platformSpeed;
 
     void Update()
     {

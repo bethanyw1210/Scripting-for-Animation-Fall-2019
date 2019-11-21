@@ -10,8 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1337366673845048960}
   - component: {fileID: 8140201616560141169}
-  - component: {fileID: 5267305983361593413}
   - component: {fileID: 4926062054879125883}
+  - component: {fileID: 3919080530386761017}
+  - component: {fileID: 899693738125667257}
   m_Layer: 0
   m_Name: SpeedPowerup
   m_TagString: Untagged
@@ -27,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4369252047415424092}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5705563717571963758}
@@ -79,19 +80,6 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!135 &5267305983361593413
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4369252047415424092}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &4926062054879125883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105,6 +93,33 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyTime: 8
+--- !u!114 &3919080530386761017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4369252047415424092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ed969ea34ab7f24db700d57df029d9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objTag: Player
+  moveSpeed: 15
+--- !u!65 &899693738125667257
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4369252047415424092}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.1616374, y: 0.45760083, z: 1.6018951}
+  m_Center: {x: -0.0010680556, y: 1.017744, z: -0.0033453703}
 --- !u!1 &7095609460499429935
 GameObject:
   m_ObjectHideFlags: 0

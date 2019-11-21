@@ -24,6 +24,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIImageControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CallPowerup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KillBox.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseCounter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,18 +44,19 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/OnTriggerStayEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OnTriggerExitEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIImageControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/KillBox.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UITextControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GetMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseCounter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CallPowerup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
       </list>
     </option>
   </component>
@@ -118,6 +120,7 @@
       <workItem from="1573965168934" duration="1803000" />
       <workItem from="1574195187234" duration="4089000" />
       <workItem from="1574292491545" duration="1134000" />
+      <workItem from="1574368008124" duration="1721000" />
     </task>
     <servers />
   </component>
