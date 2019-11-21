@@ -71,8 +71,10 @@
     <Compile Include="Assets\EnumSwitch.cs" />
     <Compile Include="Assets\FloatData.cs" />
     <Compile Include="Assets\Functions.cs" />
+    <Compile Include="Assets\GAemActionHandler.cs" />
     <Compile Include="Assets\GameArtCollections.cs" />
     <Compile Include="Assets\GameArtData.cs" />
+    <Compile Include="Assets\GameStates.cs" />
     <Compile Include="Assets\Initiate.cs" />
     <Compile Include="Assets\Lists.cs" />
     <Compile Include="Assets\MonoEvents.cs" />

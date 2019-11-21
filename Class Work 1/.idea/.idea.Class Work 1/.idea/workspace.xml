@@ -19,6 +19,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Players/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Animation/ButtonInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Coroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CoroutineClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/AI Script/AgentHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GAemActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AINav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,6 +79,8 @@
         <option value="$PROJECT_DIR$/Assets/Coroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/CoroutineClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Animation/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/GAemActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameStates.cs" />
       </list>
     </option>
   </component>
@@ -164,6 +168,7 @@
       <workItem from="1573767690825" duration="2249000" />
       <workItem from="1573965338069" duration="716000" />
       <workItem from="1574203618026" duration="353000" />
+      <workItem from="1574376278550" duration="828000" />
     </task>
     <servers />
   </component>

@@ -152,7 +152,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentDestination: {fileID: 4583913327639743794, guid: b25b91c9d5ae2f94f87d1aa3bdada3d6,
     type: 3}
-  destroyTime: 10
+  destroyTime: 8
 --- !u!135 &5976273855023687707
 SphereCollider:
   m_ObjectHideFlags: 0

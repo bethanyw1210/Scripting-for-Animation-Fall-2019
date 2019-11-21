@@ -24,8 +24,10 @@
         <e p="EnumSwitch.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="Functions.cs" t="Include" />
+        <e p="GAemActionHandler.cs" t="Include" />
         <e p="GameArtCollections.cs" t="Include" />
         <e p="GameArtData.cs" t="Include" />
+        <e p="GameStates.cs" t="Include" />
         <e p="Initiate.cs" t="Include" />
         <e p="Lists.cs" t="Include" />
         <e p="MonoEvents.cs" t="Include" />
