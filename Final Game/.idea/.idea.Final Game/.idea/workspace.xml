@@ -36,7 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootAmmo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
@@ -59,6 +58,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CallPowerup.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
       </list>
     </option>
   </component>
@@ -123,7 +123,8 @@
       <workItem from="1574195187234" duration="4089000" />
       <workItem from="1574292491545" duration="1134000" />
       <workItem from="1574368008124" duration="1721000" />
-      <workItem from="1574373812692" duration="2283000" />
+      <workItem from="1574373812692" duration="2285000" />
+      <workItem from="1574634900869" duration="1491000" />
     </task>
     <servers />
   </component>

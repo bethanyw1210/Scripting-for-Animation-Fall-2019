@@ -5,6 +5,7 @@ using UnityEngine.Events;
 
 public class TriggerEvents : MonoBehaviour
 {
+    public string objTag;
     public void Awake()
     {
         GetComponent<Collider>().isTrigger = true;
@@ -13,7 +14,10 @@ public class TriggerEvents : MonoBehaviour
     public UnityEvent triggerEnterEvent, triggerExitEvent;
     private void OnTriggerEnter(Collider other)
     {
-        triggerEnterEvent.Invoke();
+        if (other.tag == objTag)
+        {
+            triggerEnterEvent.Invoke();
+        }
     }
     
     private void OnTriggerExit(Collider other)
