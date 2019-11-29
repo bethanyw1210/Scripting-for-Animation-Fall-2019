@@ -24,7 +24,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIImageControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CallPowerup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KillBox.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseCounter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -48,17 +47,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UITextControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GetMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseCounter.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CallPowerup.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
       </list>
     </option>
   </component>
@@ -125,6 +124,7 @@
       <workItem from="1574368008124" duration="1721000" />
       <workItem from="1574373812692" duration="2285000" />
       <workItem from="1574634900869" duration="1491000" />
+      <workItem from="1574966924527" duration="4994000" />
     </task>
     <servers />
   </component>

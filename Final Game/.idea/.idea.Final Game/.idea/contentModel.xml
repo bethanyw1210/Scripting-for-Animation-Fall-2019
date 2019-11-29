@@ -8,7 +8,6 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AIMovement.cs" t="Include" />
-          <e p="CallPowerup.cs" t="Include" />
           <e p="CameraFollow.cs" t="Include" />
           <e p="CreateData.cs" t="Include" />
           <e p="DestroyMouse.cs" t="Include" />

@@ -8,6 +8,7 @@ public class Movement : MonoBehaviour
 {
     private Vector3 position;
     private CharacterController controller;
+    public string objTag;
 
     public float speed = 10f, gravity = -2f, jumpSpeed = 32f;
     //private int jumpCount;
@@ -42,5 +43,21 @@ public class Movement : MonoBehaviour
         }
         
         controller.Move (position * Time.deltaTime);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == objTag)
+        {
+            Destroy(GameObject.FindGameObjectWithTag("Powerup"));
+            speed = 30f;
+            StartCoroutine(PowerupTime());
+        }
+    }
+            
+    IEnumerator PowerupTime()
+    {
+        yield return new WaitForSeconds(5f);
+        speed = 10f;
     }
 }

@@ -20,7 +20,7 @@ public class ShootWeapon : MonoBehaviour
     {
         while (true)
         {
-            if (Input.GetKey(KeyCode.E))
+            if (Input.GetKey(KeyCode.LeftShift))
             {
                 Instantiate(laser, spawnPoint.transform.position, Quaternion.identity);
             }

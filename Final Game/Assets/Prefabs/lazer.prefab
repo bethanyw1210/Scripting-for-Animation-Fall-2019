@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3162455739810849809}
   m_Layer: 0
   m_Name: lazer
-  m_TagString: Untagged
+  m_TagString: Powerup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47,6 +47,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   platformSpeed: 1
+  objTag: Powerup
 --- !u!114 &946132392601591181
 MonoBehaviour:
   m_ObjectHideFlags: 0
