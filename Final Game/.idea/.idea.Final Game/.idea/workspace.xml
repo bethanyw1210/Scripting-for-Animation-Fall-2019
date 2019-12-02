@@ -55,9 +55,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
       </list>
     </option>
   </component>
@@ -125,6 +125,7 @@
       <workItem from="1574373812692" duration="2285000" />
       <workItem from="1574634900869" duration="1491000" />
       <workItem from="1574966924527" duration="4994000" />
+      <workItem from="1575273540495" duration="1956000" />
     </task>
     <servers />
   </component>

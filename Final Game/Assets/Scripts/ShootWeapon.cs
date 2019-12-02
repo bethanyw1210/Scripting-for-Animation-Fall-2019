@@ -9,6 +9,7 @@ public class ShootWeapon : MonoBehaviour
     public GameObject laser;
     public GameObject spawnPoint;
     public float spawnTime = 1f;
+    public string objTag;
 
 
     void Start()
@@ -29,4 +30,5 @@ public class ShootWeapon : MonoBehaviour
         }
 
     }
+
 }
