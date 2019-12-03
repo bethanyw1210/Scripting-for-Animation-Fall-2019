@@ -12,6 +12,8 @@
           <e p="CreateData.cs" t="Include" />
           <e p="DestroyMouse.cs" t="Include" />
           <e p="DestroyObject.cs" t="Include" />
+          <e p="EnterGame.cs" t="Include" />
+          <e p="ExitGame.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GetMouse.cs" t="Include" />
           <e p="InstantiateMouse.cs" t="Include" />

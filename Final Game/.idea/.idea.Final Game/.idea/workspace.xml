@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExitGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIImageControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,6 +59,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PageScripts/EnterGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExitGame.cs" />
       </list>
     </option>
   </component>
@@ -126,6 +129,7 @@
       <workItem from="1574634900869" duration="1491000" />
       <workItem from="1574966924527" duration="4994000" />
       <workItem from="1575273540495" duration="1956000" />
+      <workItem from="1575343467979" duration="1523000" />
     </task>
     <servers />
   </component>
