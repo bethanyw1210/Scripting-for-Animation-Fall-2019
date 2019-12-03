@@ -41,7 +41,14 @@ public class Movement : MonoBehaviour
             position.z = jumpSpeed;
             //jumpCount++;
         }
-        
+
+        if (transform.position.y > 0.08000517f)
+        {
+/*            Debug.Log("working");*/
+            Vector3 pos = new Vector3(transform.position.x, 0.08000517f, transform.position.z);
+            transform.position = pos;
+        }
+
         controller.Move (position * Time.deltaTime);
     }
 
@@ -49,7 +56,7 @@ public class Movement : MonoBehaviour
     {
         if (other.tag == objTag)
         {
-            Destroy(GameObject.FindGameObjectWithTag("Powerup"));
+            Destroy(other.gameObject);
             speed = 30f;
             StartCoroutine(PowerupTime());
         }

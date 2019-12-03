@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnTriggerExitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnTriggerStayEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnterGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,17 +39,14 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootAmmo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateEnemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OnTriggerStayEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OnTriggerExitEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIImageControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/KillBox.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UITextControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GetMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseCounter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CallPowerup.cs" />
@@ -56,11 +54,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PageScripts/EnterGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ExitGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
       </list>
     </option>
   </component>
@@ -130,6 +131,7 @@
       <workItem from="1574966924527" duration="4994000" />
       <workItem from="1575273540495" duration="1956000" />
       <workItem from="1575343467979" duration="1523000" />
+      <workItem from="1575404558390" duration="5061000" />
     </task>
     <servers />
   </component>

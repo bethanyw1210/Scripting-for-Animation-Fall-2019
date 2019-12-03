@@ -7,7 +7,7 @@ public class InstantiateMouse : MonoBehaviour
     public float edgeDistance;
     public int mouseSelection;
     public bool canSpawn = true;
-    public GameObject object1, object2, object3, objectToCreate;
+    public GameObject object1, object2, object3, object4, objectToCreate;
     public GameObject spawnPointMin, spawnPointMax;
     public float spawnTimeMin = 1f, spawnTimeMax = 5f;
 
@@ -31,6 +31,9 @@ public class InstantiateMouse : MonoBehaviour
                 break;
             case 3:
                 objectToCreate = object3;
+                break;
+            case 4:
+                objectToCreate = object4;
                 break;
         }
         

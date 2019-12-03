@@ -30,5 +30,20 @@ public class ShootWeapon : MonoBehaviour
         }
 
     }
+    
+    IEnumerator PowerupTime()
+    {
+        yield return new WaitForSeconds(5f);
+        spawnTime = .2f;
+    }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == objTag)
+        {
+            Destroy(other.gameObject);
+            spawnTime = .001f;
+            StartCoroutine(PowerupTime());
+        }
+    }
 }

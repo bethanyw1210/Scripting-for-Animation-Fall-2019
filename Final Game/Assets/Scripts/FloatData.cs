@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [CreateAssetMenu] 
  
@@ -11,6 +12,8 @@ public class FloatData : ScriptableObject
     public float value = 100f;
     public float minValue = 0;
     public float maxValue = 1f;
+
+    public string sceneName;
 
     //Writing code for power ups and bullets
     public void UpdateValue(float amount)
@@ -33,6 +36,15 @@ public class FloatData : ScriptableObject
         if (value > minValue)
         {
             UpdateValue(amount);
+        }
+    }
+    
+    public void DeadPlayer()
+    {
+        if (value == 0f)
+        {
+            SceneManager.LoadScene(sceneName);
+            Debug.Log("Hi I work");
         }
     }
 }
