@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\OnTriggerExitEvent.cs" />
     <Compile Include="Assets\Scripts\OnTriggerStayEvent.cs" />
+    <Compile Include="Assets\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\PlatformMovement.cs" />
     <Compile Include="Assets\Scripts\ShootWeapon.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
