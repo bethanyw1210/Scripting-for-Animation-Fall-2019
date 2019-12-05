@@ -58,12 +58,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PageScripts/EnterGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ExitGame.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
       </list>
     </option>
   </component>
@@ -135,6 +135,7 @@
       <workItem from="1575343467979" duration="1523000" />
       <workItem from="1575404558390" duration="5061000" />
       <workItem from="1575569671032" duration="1184000" />
+      <workItem from="1575577765284" duration="2444000" />
     </task>
     <servers />
   </component>

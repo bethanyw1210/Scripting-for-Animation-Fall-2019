@@ -58,6 +58,7 @@ public class Movement : MonoBehaviour
         {
             Destroy(other.gameObject);
             speed = 30f;
+            jumpSpeed = 45f;
             StartCoroutine(PowerupTime());
         }
     }
@@ -66,5 +67,6 @@ public class Movement : MonoBehaviour
     {
         yield return new WaitForSeconds(5f);
         speed = 10f;
+        jumpSpeed = 32f;
     }
 }

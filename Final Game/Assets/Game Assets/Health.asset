@@ -15,4 +15,3 @@ MonoBehaviour:
   value: 100
   minValue: 0
   maxValue: 100
-  sceneName: GameOver

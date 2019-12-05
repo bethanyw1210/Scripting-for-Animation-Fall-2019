@@ -13,9 +13,11 @@ public class FloatData : ScriptableObject
     public float minValue = 0;
     public float maxValue = 1f;
 
-    public string sceneName;
+    void Start()
+    {
+        value = 100f;
+    }
 
-    //Writing code for power ups and bullets
     public void UpdateValue(float amount)
     {
         value += amount;
@@ -37,14 +39,16 @@ public class FloatData : ScriptableObject
         {
             UpdateValue(amount);
         }
+
+        if (value <= 0f)
+        {
+            DeadPlayer();
+        }
     }
     
     public void DeadPlayer()
     {
-        if (value == 0f)
-        {
-            SceneManager.LoadScene(sceneName);
-            Debug.Log("Hi I work");
-        }
+        Destroy(GameObject.FindGameObjectWithTag("Player"));
+        SceneManager.LoadScene("GameOver");
     }
 }
