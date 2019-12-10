@@ -41,7 +41,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootAmmo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateEnemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OnTriggerStayEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OnTriggerExitEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIImageControl.cs" />
@@ -58,11 +57,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PageScripts/EnterGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ExitGame.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootWeapon.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyMouse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LazerDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
       </list>
     </option>
@@ -136,6 +136,9 @@
       <workItem from="1575404558390" duration="5061000" />
       <workItem from="1575569671032" duration="1184000" />
       <workItem from="1575577765284" duration="2444000" />
+      <workItem from="1576010290170" duration="1090000" />
+      <workItem from="1576012451262" duration="67000" />
+      <workItem from="1576012538489" duration="124000" />
     </task>
     <servers />
   </component>

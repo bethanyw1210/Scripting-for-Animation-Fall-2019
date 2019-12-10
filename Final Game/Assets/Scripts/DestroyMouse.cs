@@ -9,9 +9,5 @@ public class DestroyMouse : MonoBehaviour
     public void OnTriggerEnter(Collider other)
     {
         Destroy(gameObject);
-        /*if (gameObject.GetComponent<SpriteRenderer>().sprite == Mouse1)
-        {
-            Destroy(gameObject);
-        }*/
     }
 }

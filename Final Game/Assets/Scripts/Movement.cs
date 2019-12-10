@@ -11,16 +11,12 @@ public class Movement : MonoBehaviour
     public string objTag;
 
     public float speed = 10f, gravity = -2f, jumpSpeed = 32f;
-    //private int jumpCount;
-    //public int jumpCountMax = 5;
-    
-    // Start is called before the first frame update
+
     void Start()
     {
         controller = GetComponent<CharacterController>();
     }
-
-    // Update is called once per frame
+    
     void Update()
     {
         position.x = speed * Input.GetAxis("Horizontal");
@@ -28,7 +24,6 @@ public class Movement : MonoBehaviour
         if (controller.isGrounded)
         {
             position.z = 0f;
-            //jumpCount = 0;
         }
 
         if (!controller.isGrounded)
@@ -36,15 +31,13 @@ public class Movement : MonoBehaviour
             position.z += gravity;
         }
 
-        if (Input.GetButtonDown("Jump") /*&& jumpCount < jumpCountMax*/)
+        if (Input.GetButtonDown("Jump"))
         {
             position.z = jumpSpeed;
-            //jumpCount++;
         }
 
         if (transform.position.y > 0.08000517f)
         {
-/*            Debug.Log("working");*/
             Vector3 pos = new Vector3(transform.position.x, 0.08000517f, transform.position.z);
             transform.position = pos;
         }

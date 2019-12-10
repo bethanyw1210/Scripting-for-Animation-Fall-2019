@@ -14,10 +14,8 @@ public class InstantiateMouse : MonoBehaviour
     void Start()
     {
         StartCoroutine(Spawner());
-        //edgeDistance = .8f * Camera.main.orthographicSize;
     }
     
-    //spawn mice
     public void SpawnObject()
     {
         mouseSelection = Random.Range(1, 3);

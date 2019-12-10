@@ -4,9 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 [CreateAssetMenu] 
- 
-//scriptable objects can be used indirectly through variables
-//we do not trigger events in data scripts, should never trigger
+
 public class FloatData : ScriptableObject 
 { 
     public float value = 100f;
